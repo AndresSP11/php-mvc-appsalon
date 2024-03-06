@@ -1,0 +1,19 @@
+{
+    "name": "andres/app-salon_init",
+    "description": "TrabajoPHP",
+    "autoload": {
+        "psr-4": {
+            "Andres\\AppSalonInit\\": "src/",
+            "MVC\\":"./",
+            "Model\\":"./models",
+            "Controllers\\":"./controllers"
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "andres"
+        }
+    ],
+    "require": {}
+}
